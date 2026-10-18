@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class Program14 {
     static int[] product(int[] arr) {
         int n = arr.length;
         int prod = 1;
